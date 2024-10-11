@@ -1,9 +1,10 @@
+
+# Getting started
+
 ::: warning
 This wiki page was just made fresh out of the oven; so some pages of features of certain Opticworks tools may be absent. Proceed with caution!
 :::
 
-
-# Getting started
 
 This page will put you on the same wavelength as Opticworks and what it's up to.
 

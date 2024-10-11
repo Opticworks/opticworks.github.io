@@ -58,7 +58,9 @@ By default, particle culling doesn't need any implementation and can work just f
 
 ### Setting up LOD's
 
-
+::: info
+ This section is a stub. It will be expanded later on.
+:::
 
 ### Setting up distance fading
 

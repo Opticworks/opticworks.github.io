@@ -93,6 +93,10 @@ Trees are set up like this:
 
 ## Setting up DevTools
 
+::: important RECOMMENDATION
+3 functions in this section have the `parent` argument. This is because you can set the parent of your chosen UI element to anything that you want, although **it is highly recommended** to set the parents to either `dtLeftScrollframe` or `dtRightScrollframe`. 
+::: 
+
 By default, DevTools is already set up for VisTools functionality. However, you can add your own momentary buttons, which are useful for things like teleports, or toggles, which are useful for setting certain game states. 
 
 In the DevTools script, you have 5 functions to choose from.
@@ -142,8 +146,6 @@ dtMomentaryButton(
     end)
 )
 ```
-
-You may have noticed that 3 functions have the `parent` argument. This is because you can set the parent of your chosen UI element to anything that you want, although **it is highly recommended** to set the parents to either `dtLeftScrollframe` or `dtRightScrollframe`. 
 
 ::: info
 You should append these functions **at the end of the script** and not call them too early. Also, the order at which you call each function will also be mirrored on the UI itself. 

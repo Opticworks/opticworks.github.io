@@ -93,7 +93,7 @@ Trees are set up like this:
 
 ## Setting up DevTools
 
-::: important RECOMMENDATION
+::: tip RECOMMENDATION
 3 functions in this section have the `parent` argument. This is because you can set the parent of your chosen UI element to anything that you want, although **it is highly recommended** to set the parents to either `dtLeftScrollframe` or `dtRightScrollframe`. 
 ::: 
 

@@ -10,6 +10,9 @@ hero:
     - theme: brand
       text: Getting started
       link: /getting-started
+    - theme: alt
+      text: Credits
+      link: /credits
 
 features:
   - title: VisTools

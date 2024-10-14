@@ -147,11 +147,12 @@ You may have noticed that 3 functions have the `parent` argument. This is becaus
 
 ::: info
 You should append these functions **at the end of the script** and not call them too early. Also, the order at which you call each function will also be mirrored on the UI itself. 
- 
-## Using DevTools
+:::
 
 ::: warning
 MISINFORMATION :LOL:
+
+## Using DevTools
 :::
 
 By default, DevTools checks if you're in Studio, or have Studio access. If either of these is true, you'll be able to toggle DevMode with the right `[CTRL]` key, or by using the Konami Code.

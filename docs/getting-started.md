@@ -1,8 +1,8 @@
 
 # Getting started
 
-::: warning
-This wiki page was just made fresh out of the oven; so some pages of features of certain Opticworks tools may be absent. Proceed with caution!
+::: danger **PROCEED WITH CAUTION**
+This wiki page is new! So some pages of features of certain Opticworks tools may be absent or outdated. **Proceed with caution!**
 :::
 
 

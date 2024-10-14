@@ -11,7 +11,7 @@ romefalls - mostly everything
 
 **Advisor**
 
-adam :) - meow meows
+adam :cat: - meow meows
 
 **Assistant Developer**
 
@@ -19,7 +19,7 @@ junosaints - just sits there and looks pretty
 
 # Special Thanks
 
-MrChickenRocket - Roblox Vis Tools SDK; Some source code "borrowed" from him :grin:
+MrChickenRocket - Creator of Roblox Vis Tools SDK; distance culling source code "borrowed" from his template project, Cardboard Box Simulator :grin:
 
 
 Evan You - Vitepress

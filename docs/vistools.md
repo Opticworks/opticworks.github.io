@@ -151,14 +151,12 @@ dtMomentaryButton(
 You should append these functions **at the end of the script** and not call them too early. Also, the order at which you call each function will also be mirrored on the UI itself. 
 :::
 
-::: warning
-MISINFORMATION :LOL:
-
 ## Using DevTools
-:::
 
-By default, DevTools checks if you're in Studio, or have Studio access. If either of these is true, you'll be able to toggle DevMode with the right `[CTRL]` key, or by using the Konami Code.
+By default, DevTools checks if you're in Studio. If you are, you'll be able to toggle DevMode with the right `[CTRL]` key, or by using the Konami Code.
 If you use the Konami Code for something else, go to the `DevTools` script in `StarterPlayerScripts` and press `[CTRL]`+`[F]` to search for the unique identifier `1532`.
 
 Toggle DevMode on with the right `[CTRL]` key. You will get outputs on the lower left edge of the screen. You will also have a button in the middle-left side of your screen that you can click to open up the DevTools frame. Clicking it will bring up DevTools. 
 From thereon you'll be able to close DevTools by clicking the X in the top right or by clicking the button in the middle-left.
+
+And that's it! All your buttons and stuff will be in there :)

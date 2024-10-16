@@ -1,8 +1,10 @@
+# Credits
+
 ::: info
 If you aren't here even though you should be just let me know - Rome
 :::
 
-# The Opticworkers
+## The Opticworkers
 
 
 **Lead Developer**
@@ -17,7 +19,7 @@ adam :cat: - miau miau
 
 junocalculator - just makes us look more important
 
-## The Grumpy Idiots
+### The Grumpy Idiots
 
 :cat: Pixie - The meowmeow of Adam and Rome :3
 
@@ -26,7 +28,7 @@ junocalculator - just makes us look more important
 
 :dog: [Panda](https://files.catbox.moe/be2g70.jpg) & [Fluffy](https://files.catbox.moe/70m5j7.jpg) - The ruffruffs of Juno
 
-# Special Thanks
+## Special Thanks
 
 MrChickenRocket - Creator of Roblox Vis Tools SDK; distance culling source code "borrowed" from his template project, Cardboard Box Simulator :grin:
 

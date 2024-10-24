@@ -28,7 +28,8 @@ export default defineConfig({
           { text: 'DevTools', items: [
             {text: 'Setting up', link: '/devtools/setting-up'},
             {text: 'Functions', link: '/devtools/functions'},
-            {text: 'Customizing', link: '/devtools/customizing'}
+            {text: 'Customizing', link: '/devtools/customizing'},
+            {text: 'Errors & Warns', link: '/devtools/errors-and-warns'}
           ]},
           { text: 'ASSETone', link: '/assetone' },
           { text: 'Credits & Special Thanks', link: '/credits'}

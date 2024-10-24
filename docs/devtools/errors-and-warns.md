@@ -32,11 +32,11 @@ The script couldn't find the command that it wanted to execute.
 
 ### [128] fatal error
 
-Something serious has happened for a subtask of VisTools.
+Something serious has happened for a subtask of Luatri.
 
 ### [9008] emergency
 
-Something extremely serious has happened for VisTools and it has quit to avoid any damage.
+Something extremely serious has happened for Luatri and it has quit to avoid any damage.
 
 
 ## Warns
@@ -47,14 +47,14 @@ A zero code to indicate that a task has completed successfully.
 
 ### [1] cullbrush not found or invalid for ...
 
-VisTools has found an interior folder but could not find the cullBrush child inside of it. This generally means that VisTools will ignore the interior.
+Luatri has found an interior folder but could not find the cullBrush child inside of it. This generally means that Luatri will ignore the interior.
 
 ### [2] cullbrush not found or invalid for a missing folder
 
-VisTools has inexplicably tried to access a cullBrush inside of a folder that doesn't exist.
+Luatri has inexplicably tried to access a cullBrush inside of a folder that doesn't exist.
 
 ### [3] LOD model not found or invalid
 
-VisTools could not find an LOD model for an object tagged with `"Detail_Small"`.
+Luatri could not find an LOD model for an object tagged with `"Detail_Small"`.
 
 

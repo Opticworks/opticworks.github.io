@@ -16,14 +16,14 @@ export default defineConfig({
         text: 'Wiki',
         items: [
           { text: 'Getting started', link: '/getting-started' },
-          { text: 'VisTools', items: [
-            {text: 'Setting up', link: '/vistools/setting-up'},
-            {text: 'Interior culling', link: '/vistools/interior-culling'},
-            {text: 'Particle culling', link: '/vistools/particle-culling'},
-            {text: 'LODs', link: '/vistools/lods'},
-            {text: 'Distance fading', link: '/vistools/distance-fading'},
-            {text: 'Tree LODs', link: '/vistools/tree-lods'},
-            {text: "Do's and Don'ts", link: '/vistools/dos-and-donts'}
+          { text: 'Luatri', items: [
+            {text: 'Setting up', link: '/luatri/setting-up'},
+            {text: 'Interior culling', link: '/luatri/interior-culling'},
+            {text: 'Particle culling', link: '/luatri/particle-culling'},
+            {text: 'LODs', link: '/luatri/lods'},
+            {text: 'Distance fading', link: '/luatri/distance-fading'},
+            {text: 'Tree LODs', link: '/luatri/tree-lods'},
+            {text: "Do's and Don'ts", link: '/luatri/dos-and-donts'}
           ]},
           { text: 'DevTools', items: [
             {text: 'Setting up', link: '/devtools/setting-up'},

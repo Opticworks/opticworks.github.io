@@ -4,7 +4,7 @@ outline: deep
 
 # Setting up
 ::: warning
- Trying to use VisTools with `StreamingEnabled` during the initial development phase is **not supported** and can and will break VisTools.
+ Trying to use Luatri with `StreamingEnabled` during the initial development phase is **not supported** and can and will break Luatri.
 :::
 ## First installation
 
@@ -13,11 +13,11 @@ We know that this install method sucks and we will have it replaced with GitHub 
 :::
 
 The install is as follows:
-1. Make sure you're on `/src` on the [GitHub repo](https://github.com/Opticworks/VisTools/tree/main/src).
+1. Make sure you're on `/src` on the [GitHub repo](https://github.com/Opticworks/Luatri/tree/main/src).
 2. Copy everything from `/src/client` over to `StarterPlayerScripts`.
 3. Copy everything from `/src/gui` over to `StarterGui`.
 
-Your game now has VisTools! The explorer structure should now look like this:
+Your game now has Luatri! The explorer structure should now look like this:
 
 ```
 . 
@@ -26,7 +26,7 @@ Your game now has VisTools! The explorer structure should now look like this:
 └ StarterPlayer
    └ StarterPlayerScripts
       ├ DevTools
-      └ VisTools
+      └ Luatri
 ```
 
 ## Ok, so what now?

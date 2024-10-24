@@ -15,7 +15,7 @@ hero:
       link: /credits
 
 features:
-  - title: VisTools
+  - title: Luatri
     details: A powerful, open-source scene management tool for Roblox
   - title: ASSETone
     details: A multi-threaded, open-source external asset manager for Roblox

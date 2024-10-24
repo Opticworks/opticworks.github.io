@@ -4,7 +4,7 @@ outline: deep
 
 # DevTools
 
-DevTools is the GUI used by VisTools to change and update certain game and script states. 
+DevTools is the GUI used by Luatri to change and update certain game and script states. 
 
 ## Using DevTools
 

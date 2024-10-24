@@ -4,11 +4,17 @@ outline: deep
 
 # Customizing DevTools
 
-You can customize DevTools to your liking, by letting you pick your own colors, setting whether or not text is laid out right-to-left (for support of languages that need it,) and fonts. This section will need you to venture into the GUI generation script in `StarterGui`.
+You can customize DevTools to your liking, by letting you pick your own colors, setting whether or not text is laid out right-to-left (for support of languages that need it,) and fonts. This section will need you to venture into the theme ModuleScript found in `StarterGui.dGUI.Theme`.
 
 I'm sure you're already fainting at the sight of how many sections there are in this guide.
 **Keep in mind that following this guide is optional. By default, DevTools is already set up for VisTools functionality.** 
 You should only follow this guide if you want to customize DevTools.
+
+## Pre-made themes
+
+There are a few themes already pre-made for your choosing. If you want to try them out, they are [here](https://github.com/Opticworks/VisTools/tree/main/src/custom_themes).
+
+## Variables
 
 ### `globalFontId`
 

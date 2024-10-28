@@ -17,6 +17,7 @@ export default defineConfig({
         items: [
           { text: 'Getting started', link: '/getting-started' },
           { text: 'Luatri', items: [
+            {text: 'Before You Buy', link: '/luatri/before-you-buy'},
             {text: 'Setting up', link: '/luatri/setting-up'},
             {text: 'Interior culling', link: '/luatri/interior-culling'},
             {text: 'Particle culling', link: '/luatri/particle-culling'},

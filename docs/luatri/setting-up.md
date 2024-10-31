@@ -9,7 +9,7 @@ outline: deep
 ## First installation
 
 ::: info
-We know that this install method sucks and we will have it replaced with GitHub packages once we get to 1.0.0.
+working on making this not suck :)
 :::
 
 The install is as follows:

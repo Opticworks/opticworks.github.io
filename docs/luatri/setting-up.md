@@ -6,16 +6,13 @@ outline: deep
 ::: warning
  Trying to use Luatri with `StreamingEnabled` during the initial development phase is **not supported** and can and will break Luatri.
 :::
+
 ## First installation
 
-::: info
-working on making this not suck :)
-:::
-
 The install is as follows:
-1. Make sure you're on `/src` on the [GitHub repo](https://github.com/Opticworks/Luatri/tree/main/src).
-2. Copy everything from `/src/client` over to `StarterPlayerScripts`.
-3. Copy everything from `/src/gui` over to `StarterGui`.
+1. Go to the [release page](https://github.com/Opticworks/Luatri/releases).
+2. Download the .rbxm file.
+3. Drag the .rbxm file into your game and follow the instructions.
 
 Your game now has Luatri! The explorer structure should now look like this:
 

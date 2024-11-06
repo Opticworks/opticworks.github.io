@@ -24,4 +24,4 @@ Trees are set up like this:
         └ Leaves
 ```
 
-`OakTree.TreeModel` must have a tag called `Detail_Small`. This allows CollectionService to get the tree model and index it for Luatri.
+`OakTree.TreeModel` must have a tag called `Tree`. This allows CollectionService to get the tree model and index it for Luatri.

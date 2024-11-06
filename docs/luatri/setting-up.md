@@ -3,6 +3,7 @@ outline: deep
 ---
 
 # Setting up
+
 ::: warning
  Trying to use Luatri with `StreamingEnabled` during the initial development phase is **not supported** and can and will break Luatri.
 :::
@@ -18,12 +19,16 @@ Your game now has Luatri! The explorer structure should now look like this:
 
 ```
 . 
+├ ReplicatedStorage
+│ └ Luatri
+│   └ ... whatever modules we have
 ├ StarterGUI
-│ └ DGUI
+│  └ GUI
 └ StarterPlayer
    └ StarterPlayerScripts
-      ├ DevTools
       └ Luatri
+        ├ DevTools
+        └ ... whatever else
 ```
 
 ## Ok, so what now?

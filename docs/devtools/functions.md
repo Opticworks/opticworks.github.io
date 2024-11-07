@@ -14,6 +14,11 @@ In the DevTools script, you have 5 functions to choose from.
 
 ### function: _G.out
 
+::: warning DELETED
+    This function is gone.
+:::
+
+
 A global function that outputs a little message on the lower left corner of your render window. It can be called with:
 
 ```lua

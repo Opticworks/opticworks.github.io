@@ -9,8 +9,14 @@ This section will help you steer clear of making your game look and feel like cr
 
 ## DO
 
-**DO** use Meshes with SurfaceAppearances. Your game will love you if you use them extensively.
+### use Meshes with SurfaceAppearances
+ 
+Roblox loves dealing with Meshes. It's one of the few things that it can do extremely well.
 
+### ungroup Models as much as is feasible
+
+Roblox handles its occlusion culling by culling as many models as is possible; not just their parts. This is done as a compromise to ensure that the performance overhead from culling is minimal. To ensure that Roblox culls as much models as possible, ungroup the models so that the culling is more precise.
+If this sucks for you, just use Folders instead.
 
 ## DON'T
 

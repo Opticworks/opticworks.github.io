@@ -10,31 +10,14 @@ outline: deep
 
 You can add your own momentary buttons, which are useful for things like teleports, or toggles, which are useful for setting certain game states. 
 
-In the DevTools script, you have 5 functions to choose from.
-
-### function: _G.out
-
-::: warning DELETED
-    This function is gone.
-:::
-
-
-A global function that outputs a little message on the lower left corner of your render window. It can be called with:
-
-```lua
-_G.out("string",5,"error") -- message,timeout,type
-```
-
-You have 3 types of outputs to choose from: `output` which is the default, `warn` which gives your output a yellow background, and `error` which gives your output a red background.
-
-And then there's the UI element functions, which are:
+In the DevTools script, you have 3 functions to choose from. They are:
 
 ### function: dtDivider
 
 `dtDivider` will insert an unobtrusive divider meant to segregate tasks and subtasks.
 
 ```lua
-dtDivider("STUFF",dtLeftScrollframe) -- message,parent
+dtDivider("STUFF",left) -- message,parent
 ```
 
 ### function: dtToggleButton
